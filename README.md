@@ -50,5 +50,3 @@ Below is a visual representation of how the user interacts with the system
 Download the app expo go on your mobile phone
 
 In the output, you'll find a QR Code, scan it with your camera, the app should open.
-
-## Get a fresh project
