@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(tabs)/news.js", "app/(tabs)/profile.js", "app/(tabs)/project.js", "app/authenticate.tsx", "app/(profile)/[id].js", "app/CreateProject.js", "utils/services.ts"  ]
 }
