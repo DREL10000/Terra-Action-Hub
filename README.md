@@ -1,6 +1,37 @@
-# Welcome to your Expo app 👋
+# Welcome to Terra Action Hub (Formerly known as Neighborhood Earth)👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Purpose of this project
+
+**Climate change is accelerating faster than ever**. Human activities like energy use, industry, transportation, and agriculture are releasing greenhouse gases that have already warmed the planet by 1.2°C compared to pre-industrial times. This is driving intense droughts, rising sea levels, wildfires, floods, and biodiversity loss.
+
+Scientists agree that to avoid the worst impacts, we must limit global warming to 1.5°C — yet current policies could lead us to as much as 3.1°C of warming by the end of the century.
+
+Check out the official [United Nations Climate Change Article](https://www.un.org/en/climatechange/what-is-climate-change)
+
+To meet this challenge, we need more than just policy — we need people-powered change.
+
+Project Neighborhood Earth is a platform designed to:
+
+- Let people share positive climate actions in their communities
+
+- Promote events aimed at environmental impact
+
+- Crowdfund eco-friendly ideas and projects, empowering everyday people to make a difference
+
+By turning climate awareness into community action, we aim to grow a global neighborhood of change-makers — one good deed at a time.
+
+## Key Functional Requirements for the MVP
+
+- Search and post neighborhood activities (Snaps) by location
+- Project creation (Eco Missions): Users can create, manage and display their projects with essential details and image in order to raise funds
+- Payments: Users can browse and donate to a project an amount of their choosing
+- User Authentication: Secure login and registration process for users
+
+## Use Case Diagram
+
+Below is a visual representation of how the user interacts with the system
+
+![neighborhood earth use case diagram](./neighbor-use-case.png)
 
 ## Get started
 
@@ -16,35 +47,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+Download the app expo go on your mobile phone
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+In the output, you'll find a QR Code, scan it with your camera, the app should open.
 
 ## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
